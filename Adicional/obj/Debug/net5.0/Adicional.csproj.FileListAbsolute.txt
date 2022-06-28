@@ -1,0 +1,16 @@
+E:\CURSO C#  OO\C# Udemy\HERANÇA E POLIMORFISMO\Aula 141\Adicional\Adicional\bin\Debug\net5.0\Adicional.exe
+E:\CURSO C#  OO\C# Udemy\HERANÇA E POLIMORFISMO\Aula 141\Adicional\Adicional\bin\Debug\net5.0\Adicional.deps.json
+E:\CURSO C#  OO\C# Udemy\HERANÇA E POLIMORFISMO\Aula 141\Adicional\Adicional\bin\Debug\net5.0\Adicional.runtimeconfig.json
+E:\CURSO C#  OO\C# Udemy\HERANÇA E POLIMORFISMO\Aula 141\Adicional\Adicional\bin\Debug\net5.0\Adicional.runtimeconfig.dev.json
+E:\CURSO C#  OO\C# Udemy\HERANÇA E POLIMORFISMO\Aula 141\Adicional\Adicional\bin\Debug\net5.0\Adicional.dll
+E:\CURSO C#  OO\C# Udemy\HERANÇA E POLIMORFISMO\Aula 141\Adicional\Adicional\bin\Debug\net5.0\Adicional.pdb
+E:\CURSO C#  OO\C# Udemy\HERANÇA E POLIMORFISMO\Aula 141\Adicional\Adicional\obj\Debug\net5.0\Adicional.csproj.AssemblyReference.cache
+E:\CURSO C#  OO\C# Udemy\HERANÇA E POLIMORFISMO\Aula 141\Adicional\Adicional\obj\Debug\net5.0\Adicional.GeneratedMSBuildEditorConfig.editorconfig
+E:\CURSO C#  OO\C# Udemy\HERANÇA E POLIMORFISMO\Aula 141\Adicional\Adicional\obj\Debug\net5.0\Adicional.AssemblyInfoInputs.cache
+E:\CURSO C#  OO\C# Udemy\HERANÇA E POLIMORFISMO\Aula 141\Adicional\Adicional\obj\Debug\net5.0\Adicional.AssemblyInfo.cs
+E:\CURSO C#  OO\C# Udemy\HERANÇA E POLIMORFISMO\Aula 141\Adicional\Adicional\obj\Debug\net5.0\Adicional.csproj.CoreCompileInputs.cache
+E:\CURSO C#  OO\C# Udemy\HERANÇA E POLIMORFISMO\Aula 141\Adicional\Adicional\obj\Debug\net5.0\Adicional.dll
+E:\CURSO C#  OO\C# Udemy\HERANÇA E POLIMORFISMO\Aula 141\Adicional\Adicional\obj\Debug\net5.0\refint\Adicional.dll
+E:\CURSO C#  OO\C# Udemy\HERANÇA E POLIMORFISMO\Aula 141\Adicional\Adicional\obj\Debug\net5.0\Adicional.pdb
+E:\CURSO C#  OO\C# Udemy\HERANÇA E POLIMORFISMO\Aula 141\Adicional\Adicional\obj\Debug\net5.0\Adicional.genruntimeconfig.cache
+E:\CURSO C#  OO\C# Udemy\HERANÇA E POLIMORFISMO\Aula 141\Adicional\Adicional\obj\Debug\net5.0\ref\Adicional.dll
